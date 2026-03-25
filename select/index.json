@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "言葉はさんかく こころは四角＜Single Ver.＞",
+  "base_artist": "くるり",
+  "createdAt": "2026-03-25T03:37:05.991663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "言葉はさんかく こころは四角（single ver.)",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/01_言葉はさんかく_こころは四角(single_ver.)_くるり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言葉はさんかく こころは四角 (Single Ver.)",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_言葉はさんかく_こころは四角_(Single_Ver.)_くるり.txt"
+    }
+  ]
+}
